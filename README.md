@@ -37,16 +37,9 @@ I'm a developer who enjoys building useful digital experiences, solving technica
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaminflow&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&icon_color=3B82F6&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminflow&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" height="165" />
-  <br/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=alaminflow&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="80%" />
-</div>
 
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alaminflow&style=flat-square&color=3B82F6&label=PROFILE+VIEWS" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=alaminflow&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=alaminflow&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alaminflow&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
